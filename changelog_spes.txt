@@ -1,0 +1,55 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note 11 (spes)
+Device maintainer: GuidixX
+
+
+====================
+     05-03-2024
+====================
+
+• Added Viper4AndroidFX
+• Added GPU Boost props
+• Enabled Smooth Motion
+• Import props for better magisk hide
+• Tuned Zram performance
+• Drop Trust Hal
+• Drop prebuilt usb blobs
+• Now recovery uses as boot
+• Updated MTD Service hal
+• Fixed Ditry Flsash (Now dirty flash works!)
+• Import some overlays
+• Drop prebuilt overlays
+• Rebased Vendor tree
+
+====================
+     29-02-2024
+====================
+
+• Upstream Kernel to 4.19.307
+• Updated hals to latest versions from LA.UM.9.15.2.r1
+• Added Unlimited GPhotos feature 
+• Enabled blur by default
+• Switched to SkiaGL as HWUI renderer
+• Added memory optimization prop
+• Make LMKD more balanced
+• Speed up animations and transitions
+• Added QCOM implementation for audio effects
+• Updated DT2W node
+• Start butanimation on post fs
+• Enabled LLVM
+• Added gpu boost for UI smothness 
+• Fixed StatusBar padding
+• Switched to GCamGo
+• Fixed Recovery Ramdisk
+
+====================
+     24-02-2024
+====================
+
+• Initial Vanilla Build
+• February security patch
+• Included AOSP Surfaceflinger
+• Improved LMKD for better RAM managment
+• Tuned Surfaceflinger for more smoothness 
+• Fixed QS lags with blur
