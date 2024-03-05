@@ -1,11 +1,11 @@
 {
 	"response": [
 		{
-			"maintainer": "GuidixX",
+			"maintainer": "Guidix (GuidixX)",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 11 (NFC)",
-			"filename": " crDroidAndroid-11.0-20240305-spes-v7.39.zip",
-			"download": "https://sourceforge.net/projects/guidixproject/crdroid/stable/crDroidAndroid-11.0-20240304-spes-v7.39.zip/download",
+			"filename": " crDroidAndroid-11.0-20240306-spes-v7.39.zip",
+			"download": "https://sourceforge.net/projects/guidixproject/crdroid/stable/crDroidAndroid-11.0-20240306-spes-v7.39.zip/download",
 			"timestamp": 1636372493,
 			"md5": "7a336a18a74cd73a7addb7cf31c0c897",
 			"size": 1080274979,
