@@ -17,13 +17,12 @@ Device maintainer: GuidixX
 • Drop prebuilt usb blobs
 • Now recovery uses as boot
 • Updated MTD Service hal
-• Fixed Ditry Flash (Now dirty flash works!)
+• Fixed Dirty Flash (Now dirty flash works!)
 • Import some overlays
 • Drop prebuilt overlays
 • Rebased Vendor tree
 • Now CrDroid Supports OTA Updates
 • Improved IRQ Balance
-• Updated power hals
 
 ====================
      29-02-2024
