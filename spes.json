@@ -4,7 +4,7 @@
 			"maintainer": "Guidix (GuidixX)",
 			"oem": "Xiaomi",
 			"device": "Redmi Note 11 (NFC)",
-			"filename": " crDroidAndroid-11.0-20240308-spes-v7.39.zip",
+			"filename": "crDroidAndroid-11.0-20240308-spes-v7.39.zip",
 			"download": "https://sourceforge.net/projects/guidixproject/crdroid/stable/crDroidAndroid-11.0-20240308-spes-v7.39.zip/download",
 			"changelog": "https://github.com/GuidixX/android_vendor_crDroidOTA/blob/11.0/changelog_spes.txt",
 			"timestamp": 1678195200,
