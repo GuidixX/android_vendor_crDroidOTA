@@ -5,7 +5,7 @@ Device maintainer: GuidixX
 
 
 ====================
-     05-03-2024
+     07-03-2024
 ====================
 
 • Added Viper4AndroidFX
@@ -23,6 +23,8 @@ Device maintainer: GuidixX
 • Rebased Vendor tree
 • Now CrDroid Supports OTA Updates
 • Improved IRQ Balance
+• Improved Signature Spoofing Feature
+• Fixed Fingerprint issue with new vendor
 
 ====================
      29-02-2024
