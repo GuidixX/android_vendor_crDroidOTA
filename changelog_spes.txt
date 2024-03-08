@@ -7,7 +7,7 @@ Device maintainer: GuidixX
 ====================
      08-03-2024
 ====================
-• After update reflash Gapps if your phone in Bootloop!
+• Gapps Build
 • Added Viper4AndroidFX
 • Added GPU Boost props
 • Enabled Smooth Motion
@@ -20,11 +20,9 @@ Device maintainer: GuidixX
 • Fixed Dirty Flash (Now dirty flash works!)
 • Import some overlays
 • Drop prebuilt overlays
-• Rebased Vendor tree
 • Now CrDroid Supports OTA Updates
 • Improved IRQ Balance
 • Improved Signature Spoofing Feature
-• Fixed Fingerprint issue with new vendor
 
 ====================
      29-02-2024
