@@ -5,7 +5,7 @@ Device maintainer: GuidixX
 
 
 ====================
-     07-03-2024
+     08-03-2024
 ====================
 
 • Added Viper4AndroidFX
