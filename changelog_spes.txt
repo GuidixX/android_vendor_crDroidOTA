@@ -7,7 +7,7 @@ Device maintainer: GuidixX
 ====================
      08-03-2024
 ====================
-• Gapps Build
+• Gapps Build(Crdroid)
 • Added Viper4AndroidFX
 • Added GPU Boost props
 • Enabled Smooth Motion
