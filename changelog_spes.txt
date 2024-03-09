@@ -15,12 +15,13 @@ Device maintainer: GuidixX
 • Tuned Zram performance
 • Drop Trust Hal
 • Drop prebuilt usb blobs
+• Drop prebuilt overlays
 • Now recovery uses as boot
+• Now CrDroid Supports OTA Updates
 • Updated MTD Service hal
+• Updated vendor security patch
 • Fixed Dirty Flash (Now dirty flash works!)
 • Import some overlays
-• Drop prebuilt overlays
-• Now CrDroid Supports OTA Updates
 • Improved IRQ Balance
 • Improved Signature Spoofing Feature
 
