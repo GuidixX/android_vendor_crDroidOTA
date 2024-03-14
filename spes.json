@@ -5,7 +5,7 @@
 			"oem": "Xiaomi",
 			"device": "Redmi Note 11 (NFC)",
 			"filename": "crDroidAndroid-11.0-20240314-spes-gapps-v7.39.zip",
-			"download": "https://sourceforge.net/projects/guidixproject/files/crdroid/stable/crDroidAndroid-11.0-20240314-spes-gapps-v7.39.zip/download",
+			"download": "https://github.com/GuidixX/android_vendor_crDroidOTA/releases/download/crDroidAndroid-11.0-20240314-spes-v7.39.zip/crDroidAndroid-11.0-20240314-spes-gapps-v7.39.zip",
 			"changelog": "https://github.com/GuidixX/android_vendor_crDroidOTA/blob/11.0/changelog_spes.txt",
 			"timestamp": 1710456236,
 			"md5": "8e9a823cead7da91b95f4d336e637c4d",
