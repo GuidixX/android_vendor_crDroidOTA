@@ -10,15 +10,15 @@ Device maintainer: GuidixX
 • Updated MIUI blobs to V14.0.6.0.TGKMIXM 
 • Updated GPU Drivers to v757
 • Added Missing OMX Codecs
-• Added MIUI Camera
+• Added MIUI-Leika Camera
 • Added Support for Google AR
 • Added System Info sys nodes
 • Fixed Power_Profile.xml
-• Apply runtime blkio settings
+• Fix PoweHAL Nodes
 • Improved mac randomization Feature
 • Dropped Unused Silead Fingerprint
-• Switched to libperfmgr
-• Enabled Codec2 input surface
+• Pin Adreno Stack
+• Allow More apps In background
 
 ====================
      08-03-2024
