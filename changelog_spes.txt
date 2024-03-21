@@ -5,6 +5,18 @@ Device maintainer: GuidixX
 
 
 ====================
+     21-03-2024
+====================
+• Updated Kernel to 4.19.310
+• Update IRQ Balance Values
+• Import GPS Hals from latest clo Tag
+• Switch to libperfmgr
+• Drop GcamGo
+• Use smart_mc as default display mode
+• Fixed fpc fingerprint issue
+• Removed iop/perf
+
+====================
      14-03-2024
 ====================
 • Updated MIUI blobs to V14.0.6.0.TGKMIXM 
