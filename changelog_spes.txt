@@ -3,6 +3,15 @@ Build type: Monthly
 Device: Xiaomi Redmi Note 11 (spes)
 Device maintainer: GuidixX
 
+====================
+     29-03-2024
+====================
+• Switched back to QTI Perf stack from Moto sm6225
+• Updated Low Memory Killer Daemon Logic
+• Adress FP HAL Denial
+• Updated Perf Blobs
+• Optimized Multitasking
+• Dropped Libperfmgr
 
 ====================
      23-03-2024
@@ -19,7 +28,6 @@ Device maintainer: GuidixX
 • Fixed Screenrecorder Lags
 • Added More rounded corner values
 • Dropped prebuilt frameworks overlay
-
 
 ====================
      14-03-2024
