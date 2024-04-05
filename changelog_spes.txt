@@ -4,14 +4,22 @@ Device: Xiaomi Redmi Note 11 (spes)
 Device maintainer: GuidixX
 
 ====================
-     29-03-2024
+     04-04-2024
 ====================
+• Switched to NEW DragonIce Kernel 4.19.311
 • Switched back to QTI Perf stack from Moto sm6225
 • Updated Low Memory Killer Daemon Logic
 • Adress FP HAL Denial
 • Updated Perf Blobs
 • Optimized Multitasking
 • Dropped Libperfmgr
+• Dropped Aosp Surfaceflinger
+• Cleaned up and reworked tree
+• Updated Surfaceflinger props
+• Fixed QS Lags
+• Enabled 2.4GHz channel bonding for wifi
+• Disabled WLAN Firmware logs
+• Smarter decisions on whether to use 2/5Ghz AP (wifi)
 
 ====================
      23-03-2024
